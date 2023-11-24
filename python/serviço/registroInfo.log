@@ -1,0 +1,159 @@
+2023-11-02 16:31:17,112:INFO:Nem uma nota na fila
+2023-11-02 16:31:37,404:INFO:Nem uma nota na fila
+2023-11-02 16:31:57,699:INFO:Nem uma nota na fila
+2023-11-02 16:32:17,958:INFO:Nem uma nota na fila
+2023-11-02 16:32:38,217:INFO:Nem uma nota na fila
+2023-11-02 16:32:58,514:INFO:Nem uma nota na fila
+2023-11-02 16:36:52,467:INFO:(': Formando o envio do Lote =', 'CARLAO AUTO REPUESTO')
+2023-11-02 16:37:20,775:INFO:Nem uma nota na fila
+2023-11-02 16:37:41,029:INFO:Nem uma nota na fila
+2023-11-02 16:38:37,365:INFO:Nem uma nota na fila
+2023-11-02 16:42:22,454:INFO:Nem uma nota na fila
+2023-11-02 16:42:22,588:INFO:Nao tem protocolo na fila
+2023-11-02 16:44:04,016:INFO:Nem uma nota na fila
+2023-11-02 16:44:04,177:INFO:Nao tem protocolo na fila
+2023-11-02 16:44:24,307:INFO:Nem uma nota na fila
+2023-11-02 16:44:24,470:INFO:Nao tem protocolo na fila
+2023-11-02 16:44:44,603:INFO:Nem uma nota na fila
+2023-11-02 16:44:44,759:INFO:Nao tem protocolo na fila
+2023-11-02 16:45:04,888:INFO:Nem uma nota na fila
+2023-11-02 16:45:05,014:INFO:Nao tem protocolo na fila
+2023-11-02 16:45:25,144:INFO:Nem uma nota na fila
+2023-11-02 16:45:25,290:INFO:Nao tem protocolo na fila
+2023-11-02 16:45:45,420:INFO:Nem uma nota na fila
+2023-11-02 16:45:45,579:INFO:Nao tem protocolo na fila
+2023-11-02 16:46:05,713:INFO:Formando o envio do Lote = CARLAO AUTO REPUESTO
+2023-11-02 16:46:06,530:INFO:Nao tem protocolo na fila
+2023-11-02 16:46:26,663:INFO:Formando o envio do Lote = CARLAO AUTO REPUESTO
+2023-11-02 16:46:27,438:INFO:Nao tem protocolo na fila
+2023-11-02 16:46:47,570:INFO:Formando o envio do Lote = CARLAO AUTO REPUESTO
+2023-11-02 16:46:48,457:INFO:Nao tem protocolo na fila
+2023-11-02 16:47:08,587:INFO:Nem uma nota na fila
+2023-11-02 16:47:08,748:INFO:Nao tem protocolo na fila
+2023-11-02 16:47:32,046:INFO:Nem uma nota na fila
+2023-11-02 16:47:32,209:INFO:Nao tem protocolo na fila
+2023-11-02 16:47:52,337:INFO:Nem uma nota na fila
+2023-11-02 16:48:58,329:INFO:Nem uma nota na fila
+2023-11-02 16:48:58,492:INFO:Nao tem protocolo na fila
+2023-11-02 16:49:18,626:INFO:Formando o envio do Lote = CARLAO AUTO REPUESTO
+2023-11-02 16:49:19,325:ERROR:Erro servidor
+2023-11-02 16:49:19,452:INFO:Nao tem protocolo na fila
+2023-11-06 09:47:52,790:INFO:Formando o envio do Lote = CARLAO AUTO REPUESTO
+2023-11-06 09:47:53,489:ERROR:Erro servidor
+2023-11-06 09:47:54,406:INFO:('Sucesso na consulta do Lote', '= ', 11438123046996842)
+2023-11-06 09:48:14,534:INFO:Formando o envio do Lote = CARLAO AUTO REPUESTO
+2023-11-06 09:48:14,977:ERROR:Erro servidor
+2023-11-06 09:48:15,100:INFO:Nao tem protocolo na fila
+2023-11-17 08:36:01,551:INFO:Formando o envio do Lote = teste
+2023-11-17 08:39:29,210:INFO:Formando o envio do Lote = teste
+2023-11-17 08:40:35,855:INFO:Formando o envio do Lote = teste
+2023-11-17 08:44:18,291:INFO:Formando o envio do Lote = teste
+2023-11-17 08:44:36,836:INFO:Mensagem = Lote enviado com SucessoNota = 1.FacturaQuantidade Enviada = 1Mensagem = Lote enviado com SucessoNota = 5.CreditoQuantidade Enviada = 5
+2023-11-17 08:46:29,461:INFO:Formando o envio do Lote = teste
+2023-11-17 08:47:04,253:INFO:Mensagem = Lote enviado com SucessoNota = 1.FacturaQuantidade Enviada = 1Mensagem = Lote enviado com SucessoNota = 5.CreditoQuantidade Enviada = 5
+2023-11-17 08:49:00,386:INFO:Formando o envio do Lote = teste
+2023-11-17 08:49:21,129:INFO:Mensagem = Lote enviado com Sucesso
+Nota = 1.Factura
+Quantidade Enviada = 1
+
+Mensagem = Lote enviado com Sucesso
+Nota = 5.Credito
+Quantidade Enviada = 5
+
+
+2023-11-17 08:54:00,097:INFO:Nem uma nota na fila
+2023-11-17 08:54:06,002:INFO:('Sucesso na consulta do Lote', '= ', 11438123048923060)
+2023-11-17 08:54:10,147:INFO:('Sucesso na consulta do Lote', '= ', 11438123048923766)
+2023-11-17 08:54:13,430:INFO:('Sucesso na consulta do Lote', '= ', 11438123049003308)
+2023-11-17 08:54:35,129:INFO:Nem uma nota na fila
+2023-11-17 08:54:36,665:INFO:Nao tem protocolo na fila
+2023-11-17 08:54:58,384:INFO:Nem uma nota na fila
+2023-11-17 08:54:59,907:INFO:Nao tem protocolo na fila
+2023-11-17 08:55:21,625:INFO:Nem uma nota na fila
+2023-11-17 08:55:23,121:INFO:Nao tem protocolo na fila
+2023-11-17 08:55:44,832:INFO:Nem uma nota na fila
+2023-11-17 08:55:46,387:INFO:Nao tem protocolo na fila
+2023-11-17 08:56:08,132:INFO:Nem uma nota na fila
+2023-11-17 08:56:09,637:INFO:Nao tem protocolo na fila
+2023-11-17 08:56:31,316:INFO:Nem uma nota na fila
+2023-11-17 08:56:32,816:INFO:Nao tem protocolo na fila
+2023-11-17 08:56:54,567:INFO:Formando o envio do Lote = CARLAO AUTO REPUESTO
+2023-11-17 08:56:56,623:ERROR:Erro servidor
+2023-11-17 08:56:58,131:INFO:Nao tem protocolo na fila
+2023-11-17 08:57:19,819:INFO:Formando o envio do Lote = CARLAO AUTO REPUESTO
+2023-11-17 08:57:21,915:ERROR:Erro servidor
+2023-11-17 08:57:23,422:INFO:Nao tem protocolo na fila
+2023-11-17 08:57:45,329:INFO:Formando o envio do Lote = CARLAO AUTO REPUESTO
+2023-11-17 08:57:47,535:ERROR:Erro servidor
+2023-11-17 08:57:49,055:INFO:Nao tem protocolo na fila
+2023-11-17 08:58:10,838:INFO:Formando o envio do Lote = CARLAO AUTO REPUESTO
+2023-11-17 08:59:42,434:INFO:Formando o envio do Lote = CARLAO AUTO REPUESTO
+2023-11-17 08:59:46,452:INFO:Mensagem = Lote enviado com Sucesso
+Nota = 5.Nota de crédito eletrônica
+Quantidade Enviada = 1
+
+
+2023-11-17 08:59:52,092:INFO:('Sucesso na consulta do Lote', '= ', 11438123049013686)
+2023-11-17 09:00:13,819:INFO:Formando o envio do Lote = CARLAO AUTO REPUESTO
+2023-11-17 09:00:15,697:ERROR:Erro servidor
+2023-11-17 09:00:17,203:INFO:Nao tem protocolo na fila
+2023-11-17 09:00:38,969:INFO:Formando o envio do Lote = CARLAO AUTO REPUESTO
+2023-11-17 09:00:42,739:INFO:Mensagem = Lote enviado com Sucesso
+Nota = 7.Nota de entrega eletrônica
+Quantidade Enviada = 1
+
+
+2023-11-17 09:00:48,368:INFO:('Sucesso na consulta do Lote', '= ', 11438123049013866)
+2023-11-17 09:01:10,107:INFO:Nem uma nota na fila
+2023-11-17 09:01:11,661:INFO:Nao tem protocolo na fila
+2023-11-17 09:01:33,428:INFO:Nem uma nota na fila
+2023-11-17 09:01:34,959:INFO:Nao tem protocolo na fila
+2023-11-17 09:01:56,736:INFO:Nem uma nota na fila
+2023-11-17 09:02:02,260:INFO:('Sucesso na consulta do Lote', '= ', 11438123049013982)
+2023-11-17 09:02:23,947:INFO:Nem uma nota na fila
+2023-11-17 09:02:25,456:INFO:Nao tem protocolo na fila
+2023-11-17 09:02:47,149:INFO:Nem uma nota na fila
+2023-11-17 09:02:48,653:INFO:Nao tem protocolo na fila
+2023-11-17 09:03:10,343:INFO:Nem uma nota na fila
+2023-11-17 09:03:11,838:INFO:Nao tem protocolo na fila
+2023-11-17 09:03:33,542:INFO:Nem uma nota na fila
+2023-11-17 09:03:35,045:INFO:Nao tem protocolo na fila
+2023-11-17 09:03:56,755:INFO:Nem uma nota na fila
+2023-11-17 09:03:58,254:INFO:Nao tem protocolo na fila
+2023-11-17 09:04:19,942:INFO:Nem uma nota na fila
+2023-11-17 09:04:21,458:INFO:Nao tem protocolo na fila
+2023-11-17 09:04:43,154:INFO:Nem uma nota na fila
+2023-11-17 09:04:44,647:INFO:Nao tem protocolo na fila
+2023-11-17 09:05:06,342:INFO:Nem uma nota na fila
+2023-11-17 09:05:07,842:INFO:Nao tem protocolo na fila
+2023-11-17 09:05:29,563:INFO:Nem uma nota na fila
+2023-11-17 09:05:31,065:INFO:Nao tem protocolo na fila
+2023-11-17 09:05:52,748:INFO:Nem uma nota na fila
+2023-11-17 09:05:54,284:INFO:Nao tem protocolo na fila
+2023-11-17 09:06:15,979:INFO:Nem uma nota na fila
+2023-11-17 09:06:17,513:INFO:Nao tem protocolo na fila
+2023-11-17 09:06:39,190:INFO:Nem uma nota na fila
+2023-11-17 09:06:40,727:INFO:Nao tem protocolo na fila
+2023-11-17 09:25:29,026:INFO:Formando o envio do Lote = CARLAO AUTO REPUESTO
+2023-11-17 09:25:33,342:ERROR:Erro servidor
+2023-11-17 09:25:34,866:INFO:Nao tem protocolo na fila
+2023-11-17 09:25:56,582:INFO:Formando o envio do Lote = CARLAO AUTO REPUESTO
+2023-11-17 09:26:00,222:ERROR:Erro servidor
+2023-11-17 09:26:01,737:INFO:Nao tem protocolo na fila
+2023-11-17 09:27:56,939:INFO:Formando o envio do Lote = CARLAO AUTO REPUESTO
+2023-11-17 09:29:15,071:ERROR:Erro servidor
+2023-11-17 09:29:54,998:INFO:Formando o envio do Lote = CARLAO AUTO REPUESTO
+2023-11-17 09:30:25,432:INFO:Mensagem = Lote enviado com Sucesso
+Nota = 7.Nota de entrega eletrônica
+Quantidade Enviada = 2
+
+
+2023-11-17 09:30:30,867:INFO:('Sucesso na consulta do Lote', '= ', 11438123049017028)
+2023-11-17 09:30:52,656:INFO:Nem uma nota na fila
+2023-11-17 09:30:54,169:INFO:Nao tem protocolo na fila
+2023-11-17 09:31:15,878:INFO:Nem uma nota na fila
+2023-11-17 09:31:23,036:INFO:('Sucesso na consulta do Lote', '= ', 11438123049017586)
+2023-11-17 09:31:44,741:INFO:Nem uma nota na fila
+2023-11-17 09:31:46,263:INFO:Nao tem protocolo na fila
+2023-11-17 09:32:07,951:INFO:Nem uma nota na fila
+2023-11-17 09:32:09,443:INFO:Nao tem protocolo na fila
